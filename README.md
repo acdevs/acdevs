@@ -1,5 +1,5 @@
- [
- { 😽 : Hi, I’m aman.},
- { 💛 : I’m interested in Android & Web.},
- { 🌟 : I’m currently learning Java, Python...}
- ]
+ #### [
+ ##### { 😽 : Hi, I’m `aman`.},
+ ##### { 💛 : I’m interested in `android` & `web`.},
+ ##### { 🌟 : I’m currently learning `java`, `python`...}
+ #### ]
